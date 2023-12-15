@@ -1,1 +1,0 @@
-ln -s libft_malloc_Testing.so libft_malloc.so
